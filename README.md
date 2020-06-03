@@ -38,10 +38,10 @@ $ ./mvnw clean install
 ```
 
 After running application we can create a project using intelijj.
-![project creation](Spring Quick Initializer.png)
+![project creation](files/Spring_Quick_Initializer.png)
 
 Dependency selection
-![Dependency](dependancy selection.png)
+![Dependency](files/dependancy_selection.png)
 
 ##### Created sample project
 https://github.com/rakib09/spring-boot-app
